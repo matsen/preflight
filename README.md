@@ -4,7 +4,7 @@ Is an idea likely to advance the field?
 
 Our "preflight check" framework provides a structured approach for thinking through computational biology research projects.
 
-To use, simply copy one of the two template files and fill in the questions.
+To use, simply copy one of the template files and fill in the questions.
 
 ### Credit
 
