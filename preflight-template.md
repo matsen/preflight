@@ -1,4 +1,4 @@
-# Project overview
+# Preflight document for {project title} by {author}
 
 ## What are you trying to do? Articulate your objectives using words that would be familiar to someone who had taken an undergraduate class in the topic.
 
